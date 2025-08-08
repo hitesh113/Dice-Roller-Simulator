@@ -2,7 +2,7 @@
 
 import random
 
-rollNum = int(input("Enter your favourite number: ")) 
+rollNum = int(input("Roll Dice with your number: ")) 
 
 while True:
     rolled_Num=random.randint(1, 6)
