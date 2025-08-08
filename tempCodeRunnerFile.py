@@ -1,1 +1,0 @@
-rollNum = int(input("Enter your favourite number: "))
